@@ -27,6 +27,12 @@ struct VerletObject
 		last_position = position;
 		position += delta_pos + acceleration * dt * dt;
 		acceleration = {};
+
+		if (std::isnan(position.x) || std::isnan(position.y)) {
+			position = {float(- 500 + rand() % 1000), float(- 500 + rand() % 1000)};
+			last_position = position;
+			return;
+		}
 	}
 
 	void accelerate(const sf::Vector2f& accel) {

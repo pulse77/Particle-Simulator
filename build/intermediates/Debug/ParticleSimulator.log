@@ -1,6 +1,6 @@
 ﻿  main.cpp
 C:\Users\Benitas\Desktop\repos\ParticleSimulator\src\solver.h(45,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Benitas\Desktop\repos\ParticleSimulator\src\main.cpp(43,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\Benitas\Desktop\repos\ParticleSimulator\src\main.cpp(44,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\Benitas\Desktop\repos\ParticleSimulator\src\main.cpp(46,11): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\Benitas\Desktop\repos\ParticleSimulator\src\solver.h(67,10): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\Benitas\Desktop\repos\ParticleSimulator\src\main.cpp(74,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Benitas\Desktop\repos\ParticleSimulator\src\main.cpp(75,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   ParticleSimulator.vcxproj -> C:\Users\Benitas\Desktop\repos\ParticleSimulator\build\Debug\ParticleSimulator.exe

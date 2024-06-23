@@ -1,5 +1,6 @@
 #pragma once
 #include "circleConstraint.h"
+#include "boxConstraint.h"
 
 class Renderer {
 private:
@@ -10,11 +11,15 @@ public:
 
 	void render(const Solver& solver) const {
 		const Constraint* constraint = solver.getConstraint();
-		const CircleConstraint* circleConstraint = dynamic_cast<const CircleConstraint*>(constraint);
+		const BoxConstraint* boxConstraint = dynamic_cast<const BoxConstraint*>(constraint);
+		/*const CircleConstraint* circleConstraint = dynamic_cast<const CircleConstraint*>(constraint);
 		sf::CircleShape constraint_background{ circleConstraint->getRadius() };
-		constraint_background.setPosition(circleConstraint->getCentre());
-		constraint_background.setOrigin(constraint_background.getRadius(), constraint_background.getRadius());
-		constraint_background.setPointCount(128);
+		constraint_background.setPosition(circleConstraint->getCentre());*/
+		//constraint_background.setOrigin(constraint_background.getRadius(), constraint_background.getRadius());
+		//constraint_background.setPointCount(128);
+
+		sf::RectangleShape constraint_background{ boxConstraint->getSize() };
+		constraint_background.setOrigin(boxConstraint->getSize() / 2.0f);
 		constraint_background.setFillColor(sf::Color::Cyan);
 		m_target.draw(constraint_background);
 

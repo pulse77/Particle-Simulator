@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\verletObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|solutionrelative:src\\verletObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\solver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|solutionrelative:src\\solver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -15,8 +19,16 @@
       "RelativeMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|solutionrelative:src\\boxConstraint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\verletObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|solutionrelative:src\\verletObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\boxConstraint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|solutionrelative:src\\boxConstraint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\circleConstraint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|solutionrelative:src\\circleConstraint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\constraint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|solutionrelative:src\\constraint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -25,18 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\circleConstraint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|solutionrelative:src\\circleConstraint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\boxConstraint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|solutionrelative:src\\boxConstraint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\constraint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|solutionrelative:src\\constraint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\circleConstraint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{787E4D50-4E40-4E8F-9A8C-88F54DDAC4D0}|ParticleSimulator.vcxproj|solutionrelative:src\\circleConstraint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,72 +50,72 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "boxConstraint.cpp",
               "DocumentMoniker": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\boxConstraint.cpp",
               "RelativeDocumentMoniker": "src\\boxConstraint.cpp",
               "ToolTip": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\boxConstraint.cpp",
               "RelativeToolTip": "src\\boxConstraint.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-18T18:56:03.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "boxConstraint.h",
               "DocumentMoniker": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\boxConstraint.h",
               "RelativeDocumentMoniker": "src\\boxConstraint.h",
               "ToolTip": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\boxConstraint.h",
               "RelativeToolTip": "src\\boxConstraint.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-18T18:46:55.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "renderer.h",
               "DocumentMoniker": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\renderer.h",
               "RelativeDocumentMoniker": "src\\renderer.h",
               "ToolTip": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\renderer.h",
               "RelativeToolTip": "src\\renderer.h",
-              "ViewState": "AQIAAAcAAAAAAAAAAABBwBoAAAAiAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAUwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-18T13:53:39.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "verletObject.h",
               "DocumentMoniker": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\verletObject.h",
               "RelativeDocumentMoniker": "src\\verletObject.h",
               "ToolTip": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\verletObject.h",
               "RelativeToolTip": "src\\verletObject.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-18T18:11:42.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "circleConstraint.cpp",
               "DocumentMoniker": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\circleConstraint.cpp",
               "RelativeDocumentMoniker": "src\\circleConstraint.cpp",
               "ToolTip": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\circleConstraint.cpp",
               "RelativeToolTip": "src\\circleConstraint.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-18T17:12:07.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "circleConstraint.h",
               "DocumentMoniker": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\circleConstraint.h",
               "RelativeDocumentMoniker": "src\\circleConstraint.h",
@@ -128,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "constraint.h",
               "DocumentMoniker": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\constraint.h",
               "RelativeDocumentMoniker": "src\\constraint.h",
@@ -141,13 +141,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "solver.h",
               "DocumentMoniker": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\solver.h",
               "RelativeDocumentMoniker": "src\\solver.h",
               "ToolTip": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\solver.h",
               "RelativeToolTip": "src\\solver.h",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAuwFcAAAACAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwBIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-15T18:53:55.573Z",
               "EditorCaption": ""
@@ -160,7 +160,7 @@
               "RelativeDocumentMoniker": "src\\main.cpp",
               "ToolTip": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\main.cpp",
               "RelativeToolTip": "src\\main.cpp",
-              "ViewState": "AQIAACgAAAAAAAAAAAAawDQAAAAsAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-15T18:27:12.37Z",
               "EditorCaption": ""

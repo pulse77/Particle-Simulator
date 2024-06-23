@@ -2,6 +2,7 @@
 #include "solver.h"
 #include "renderer.h"
 #include "circleConstraint.h"
+#include "boxConstraint.h"
 
 #include <iostream>
 #include <random>
@@ -20,18 +21,19 @@ int main()
 	window.setView(view);
 
 
-	const sf::Vector2f constraintCentre{0.0f, 0.0f };
-	constexpr float constraintRadius{500.0f};
-	CircleConstraint cc(constraintCentre, constraintRadius);
-	Solver solver(&cc);
+	//const sf::Vector2f constraintCentre{0.0f, 0.0f };
+	//constexpr float constraintRadius{500.0f};
+	//CircleConstraint cc(constraintCentre, constraintRadius);
+	BoxConstraint bc({ 0.0f, 0.0f }, {1000.0f, 1000.0f});
+	Solver solver(&bc);
 	solver.SetUpdateInterval(1.0f / FPS_LIMIT);
 	Renderer renderer{window};
 
 	sf::Clock clock;
 	float currTime{};
-	constexpr int particlesToSpawn = 500;
-	constexpr float timeBetweenSpawns = 0.0025f;
-
+	constexpr int particlesToSpawn = 800;
+	constexpr float timeBetweenSpawns = 0.00001f;
+	bool spawnMore = true;
 	std::random_device rd;
 	std::mt19937 gen(rd());
 	std::uniform_real_distribution<> dis(0.0, 1.0);
@@ -58,6 +60,7 @@ int main()
 					sf::Vector2i windowPixelPos = sf::Mouse::getPosition(window);
 					sf::Vector2f worldPos = window.mapPixelToCoords(windowPixelPos);
 					solver.addObject(worldPos, {0,0}, 20.0f);
+					std::cout << "spawning\n";
 				}
 
 				break;
@@ -66,12 +69,15 @@ int main()
 
 		float deltaTime = clock.restart().asSeconds();
 		currTime += deltaTime;
-		if (solver.getObjects().size() < particlesToSpawn && currTime >= timeBetweenSpawns) {
+		if (spawnMore && solver.getObjects().size() < particlesToSpawn && currTime >= timeBetweenSpawns) {
 			currTime -= timeBetweenSpawns;
 			float a = 2*M_PI*dis(gen);
 			float r = (500.0f - 20.0f) * dis(gen);
 			sf::Vector2f spawnPos = r * sf::Vector2f{sinf(a), cosf(a)};
 			solver.addObject(spawnPos, { 0, 0 }, 20.0f);
+		}
+		else {
+			spawnMore = false;
 		}
 
 		solver.update();
