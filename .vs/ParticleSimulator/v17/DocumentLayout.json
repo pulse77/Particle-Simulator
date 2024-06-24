@@ -58,8 +58,7 @@
               "RelativeToolTip": "src\\boxConstraint.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-18T18:56:03.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T18:56:03.216Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "src\\boxConstraint.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-18T18:46:55.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T18:46:55.253Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "src\\renderer.h",
               "ViewState": "AQIAAB4AAAAAAAAAAAAUwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-18T13:53:39.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T13:53:39.285Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "src\\verletObject.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-18T18:11:42.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T18:11:42.237Z"
             },
             {
               "$type": "Document",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "src\\circleConstraint.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-18T17:12:07.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T17:12:07.417Z"
             },
             {
               "$type": "Document",
@@ -123,8 +118,7 @@
               "RelativeToolTip": "src\\circleConstraint.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-18T17:08:05.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T17:08:05.046Z"
             },
             {
               "$type": "Document",
@@ -136,8 +130,7 @@
               "RelativeToolTip": "src\\constraint.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-18T17:04:35.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T17:04:35.626Z"
             },
             {
               "$type": "Document",
@@ -149,8 +142,7 @@
               "RelativeToolTip": "src\\solver.h",
               "ViewState": "AQIAAAIAAAAAAAAAAAASwBIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-15T18:53:55.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T18:53:55.573Z"
             },
             {
               "$type": "Document",
@@ -160,7 +152,7 @@
               "RelativeDocumentMoniker": "src\\main.cpp",
               "ToolTip": "C:\\Users\\Benitas\\Desktop\\repos\\ParticleSimulator\\src\\main.cpp",
               "RelativeToolTip": "src\\main.cpp",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwCgAAAAaAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwCgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-15T18:27:12.37Z",
               "EditorCaption": ""
